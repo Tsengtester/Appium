@@ -1,0 +1,12 @@
+[caps]
+platformName = "Android"
+deviceName = "emulator-5554"
+appPackage = "com.isuncloud.tidewallet"
+appActivity = ".landing.LandingActivity"
+automationName = 'UiAutomator2'
+app = "/Users/yayatseng/Downloads/tidewallet-android_2.2.0.4-release.apk"
+
+
+[appium_lib]
+sauce_username = false
+sauce_access_key = false
